@@ -1,0 +1,23 @@
+From f31cc3a3af516c7833bbcacdf666bef8acdcaf33 Mon Sep 17 00:00:00 2001
+From: "SMTSOFTWARE\\arkadiusz.czaplicki" <arkadiusz.czaplicki@intive.com>
+Date: Thu, 9 Mar 2017 15:49:08 +0100
+Subject: [PATCH] tests
+
+---
+ index.html | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+diff --git a/index.html b/index.html
+index 2419b7b..e5307eb 100644
+--- a/index.html
++++ b/index.html
+@@ -1 +1,4 @@
+-uuuuu
+\ No newline at end of file
++<<<<<<< HEAD
++uuuuu
++=======
++>>>>>>> parent of d8e017b... no message
+-- 
+2.11.0.windows.1
+
